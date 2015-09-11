@@ -21,6 +21,7 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Python 2.7 vs Python 3.4 ─ What should Python Beginners choose?](https://www.codementor.io/python/tutorial/python-2-7-vs-python-3-4)
   - [Introduction to Python Decorators](https://www.codementor.io/python/tutorial/introduction-to-decorators)
   - [Beginner's Guide to Debugging Python: Print Statements](https://www.codementor.io/python/tutorial/how-to-debug-python-code-beginners-print-line)
+  - [A Python Import Tutorial for Beginners](https://www.codementor.io/python/tutorial/python-path-virtualenv-import-for-beginners)
   - [How to Create Custom Exceptions in Python](https://www.codementor.io/python/tutorial/python-custom-exception)
   - [A SQLAlchemy Cheat Sheet](https://www.codementor.io/python/tutorial/understanding-sqlalchemy-cheat-sheet)
   - [Python Framework Comparison: Django vs. Pyramid](https://www.codementor.io/python/tutorial/django-vs-pyramid-python-framework-comparison)
@@ -32,10 +33,19 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Python Internals: Codementor Office Hours with Martijn Pieters](https://www.codementor.io/python/tutorial/python-internals-codementor-office-hours-martijn-pieters)
 
 ## Data Science with Python
-  - [Data Frames with Python & R](https://www.codementor.io/python/tutorial/python-vs-r-for-data-science-data-frames-i)
+  - [Data Frames with Python & R](https://www.codementor.io/python/tutorial/python-vs-r-for-data-science-data-frames-i), [Part 2](https://www.codementor.io/python/tutorial/python-vs-r-data-science-data-frames-ii)
   - [Exploratory Data Analysis](https://www.codementor.io/python/tutorial/data-science-python-r-exploratory-data-analysis-visualization)
   - [Dimension Reduction & Clustering](https://www.codementor.io/python/tutorial/data-science-python-pandas-r-dimensionality-reduction)
+  - [Sentiment Classification Using Linear Methods](https://www.codementor.io/python/tutorial/data-science-python-r-sentiment-classification-machine-learning)
+  - [Building a Wine Review & Recommendation Site with Django](https://www.codementor.io/python/tutorial/get-started-with-django-building-recommendation-review-app), [Part 2](https://www.codementor.io/python/tutorial/build-data-product-django-user-management)
 
+## Python & Spark
+  - [Working with Resilient Distributed Datasets](https://www.codementor.io/spark/tutorial/spark-python-rdd-basics), [Part 2](https://www.codementor.io/spark/tutorial/spark-python-data-aggregations)
+  - [Machine Learning library: Basic Statistics & Exploratory Data Analysis](https://www.codementor.io/spark/tutorial/mllib-basic-statistics-exploratory-data-analysis)
+  - [MLlib Logistic Regression](https://www.codementor.io/spark/tutorial/spark-mllib-logistic-regression)
+  - [MLlib Decision Trees](https://www.codementor.io/spark/tutorial/spark-python-mllib-decision-trees)
+  - [SQL & DataFrames](https://www.codementor.io/spark/tutorial/python-spark-sql-dataframes)
+  - [Building a Movie Recommendation Service with Spark & Flask](https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part1), [Part 2](https://www.codementor.io/spark/tutorial/building-a-web-service-with-apache-spark-flask-example-app-part2)
 
 ## Tips
   - [How do I remove the first and last rows and columns from a 2D numpy array?](https://www.codementor.io/tips/2843378231/how-do-i-remove-the-first-and-last-rows-and-columns-from-a-2d-numpy-array)
@@ -51,8 +61,6 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [How can I get Travis-CI to recognize and open external files during testing](https://www.codementor.io/tips/8102473038/how-can-i-get-travis-ci-to-recognize-and-open-external-files-during-testing)
 
 
-
-
 ## Videos
   - [Carte-Blanche, a Django Permission Framework for Rapid Prototyping, with its creator, Eric Neuman ](https://www.codementor.io/officehours/6962831504/carte-blanche-a-django-permission-framework-for-rapid-prototyping-with-its-creator-eric-neuman)
   - [Introduction to Machine Learning & NLP: Building a Spam Classifier](https://www.codementor.io/officehours/1385095426/building-a-spam-classifier)
@@ -63,13 +71,12 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Python Documentations](https://www.python.org/doc/)
 
 ## Courses
+  - [Codementor Live Classes](https://www.codementor.io/classes/learn-python-live)
   - [MIT Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
   - [Programming for Everybody (Python)](https://www.coursera.org/course/pythonlearn)
   - [Google's Python Class](https://developers.google.com/edu/python/?hl=de-DE&csw=1)
   - [Lynda.com](http://www.lynda.com/Python-training-tutorials/415-0.html)
   - [Intro to Computer Science](https://www.udacity.com/course/ud036)
-
-
 
 ## Developer Tools
   - [PythonAnywhere](https://www.pythonanywhere.com/)
